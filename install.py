@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import re,yaml,os,time,sys,datetime
 
 path=os.path.dirname(os.path.abspath(sys.argv[0]))
